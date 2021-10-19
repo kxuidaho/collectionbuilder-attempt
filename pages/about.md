@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="This is the first Psychiana section;This is the second section" %}
+{% include feature/image.html objectid="psychiana028" width="75" %}
 
 ## This is the first Psychiana section
 
