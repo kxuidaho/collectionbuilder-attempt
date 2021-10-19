@@ -14,7 +14,6 @@ permalink: /about.html
 This is content about the Psychiana collection.
 This is in the first section of the About page.
 
-{% include feature/item-figure.html objectid="psychiana043" width="50" %}
 
 ## This is the second section
 
